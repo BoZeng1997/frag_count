@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1593608175 source:e:\duke\res\summer\code\damagetry\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<cstdlib>
+	"Cluster.h"
+
+1593574165 e:\duke\res\summer\code\damagetry\node.h
+
+1593578581 e:\duke\res\summer\code\damagetry\quad.h
+	"Node.h"
+	<math.h>
+	<vector>
+
+1593943499 source:e:\duke\res\summer\code\damagetry\quad.cpp
+	"Quad.hpp"
+	<cmath>
+	<iostream>
+
+1593943064 source:e:\duke\res\summer\code\damagetry\cluster.cpp
+	"Cluster.hpp"
+	<iostream>
+
+1593607412 e:\duke\res\summer\code\damagetry\cluster.h
+	"Quad.h"
+
+1593943372 e:\duke\res\summer\code\damagetry\cluster.hpp
+	"Quad.hpp"
+
+1593943372 e:\duke\res\summer\code\damagetry\quad.hpp
+	"Node.hpp"
+	<math.h>
+	<vector>
+
+1593574165 e:\duke\res\summer\code\damagetry\node.hpp
+
+1593936842 source:e:\duke\res\summer\code\damagetry\frag_count.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<cstdlib>
+	"Cluster.hpp"
+	"makemesh.hpp"
+	"declassifybroken.hpp"
+	"reclassify.hpp"
+	"classifybroken.hpp"
+
+1593924748 source:e:\duke\res\summer\code\damagetry\makemesh.cpp
+	"Quad.hpp"
+	<iostream>
+
+1593923505 source:e:\duke\res\summer\code\damagetry\makemesh.hpp
+	"Quad.hpp"
+	<iostream>
+
+1593939096 e:\duke\res\summer\code\damagetry\makemesh.hpp
+	"Quad.hpp"
+	<iostream>
+
+1593923927 e:\duke\res\summer\code\damagetry\makemesh.cpp
+	"Quad.hpp"
+	<iostream>
+
+1593939668 e:\duke\res\summer\code\damagetry\declassifybroken.hpp
+
+1593935093 e:\duke\res\summer\code\damagetry\reclassify.hpp
+	<list>
+
+1593944025 e:\duke\res\summer\code\damagetry\classifybroken.hpp
+	"limits.h"
+	"float.h"
+
